@@ -33,7 +33,7 @@ Para garantir a integridade e a alta performance nas buscas, o sistema emprega c
 <img width="785" height="605" alt="Screenshot 2026-04-15 214623" src="https://github.com/user-attachments/assets/e33f3e16-c9ce-4a7b-a139-97126befb850" />
 ...
   
-* **ArvoreBMais** : Implementação da ArvoreBMais em que cada nó comporta várias chaves. As árvores B são estruturas planejadas para o acesso de dados em blocos. Usuário: nome e Curso: nome do curso.
+* **ArvoreB+** : Implementação da ArvoreB+ em que cada nó comporta várias chaves. As árvores B+ são estruturas planejadas para o acesso de dados em blocos. Usuário: nome e Curso: nome do curso.
 
 <img width="785" height="578" alt="Screenshot 2026-04-15 214732" src="https://github.com/user-attachments/assets/cacf3a31-364c-4212-ac8e-5b6031a65528" />
 ...
